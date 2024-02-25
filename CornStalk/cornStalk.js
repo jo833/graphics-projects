@@ -1,13 +1,3 @@
-//////////////// FILE HEADER //////////////////////////
-//
-// Title:    Programming Assignment 3
-// Course:   CS 559 Fall 2022
-//
-// Author:   Julia Oghigian
-// Email:    oghigian@wisc.edu
-// Lecturer: Eftychios Sifakis
-//
-//////////////////////////////////////////////////////
 function setup() {
   "use strict";
   var canvas = document.getElementById("myCanvas");
