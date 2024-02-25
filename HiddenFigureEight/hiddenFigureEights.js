@@ -1,13 +1,3 @@
-//////////////// FILE HEADER //////////////////////////
-//
-// Title:    Programming Assignment 5
-// Course:   CS 559 Fall 2022
-//
-// Author:   Julia Oghigian
-// Email:    oghigian@wisc.edu
-// Lecturer: Eftychios Sifakis
-//
-//////////////////////////////////////////////////////
 function setup() {
   var cameraCanvas = document.getElementById("cameraCanvas");
   var cameraContext = cameraCanvas.getContext("2d");
